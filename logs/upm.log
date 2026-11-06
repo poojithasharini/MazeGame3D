@@ -1,0 +1,27 @@
+[2026-11-04T13:43:29.459Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.8f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 20928 --ipc-path Unity-Upm-20928 -l 2 --log-file C:\\Users\\Asus\\OneDrive\\Desktop\\MazeGame3D/Logs/upm.log
+[2026-11-04T13:43:29.512Z][INFO] IPC server started (IPC path=Unity-Upm-20928).
+[2026-11-04T13:43:29.513Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-20928.
+[2026-11-04T13:43:42.447Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:43:42.992Z][INFO] project:list-packages --> 200 (545 ms)
+[2026-11-04T13:43:43.090Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:43:43.107Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T13:43:43.118Z][INFO] config:project:get-registries --> 200 (11 ms)
+[2026-11-04T13:43:43.243Z][INFO] project:list-packages --> 200 (153 ms)
+[2026-11-04T13:43:54.336Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:43:54.389Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:43:54.479Z][INFO] project:list-packages --> 200 (143 ms)
+[2026-11-04T13:43:54.534Z][INFO] project:list-packages --> 200 (145 ms)
+[2026-11-04T13:43:54.752Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T13:43:54.757Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-11-04T13:43:58.661Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:43:58.770Z][INFO] project:list-packages --> 200 (109 ms)
+[2026-11-04T13:44:02.402Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T13:44:04.502Z][INFO] project:list-packages --> 200 (2100 ms)
